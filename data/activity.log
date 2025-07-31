@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2025-07-31T06:19:02.676731",
+    "level": "info",
+    "message": "Model loaded: huggyllama/llama-7b",
+    "component": null,
+    "details": {}
+  }
+]
