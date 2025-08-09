@@ -1,4 +1,4 @@
-# 🧠 RLHF Studio – AI Safety Research Platform
+# 🧠 RLHF Safety Lab – AI Safety Research Platform
 
 A showcase-ready platform for aligning LLMs using RLHF, harm taxonomies, and Chain-of-Thought reasoning. Built with Streamlit for researchers, engineers, and policy teams working on LLM safety.
 
